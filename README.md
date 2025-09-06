@@ -1,5 +1,5 @@
 
-## 💡Oooii eu sou a Paula Melo! 🦆
+## 💡 Oooii eu sou a Paula Melo! 🦆
 
 - 🚀 Em transição para a área de TI  
 - 💻 Aprendendo: JavaScript | TypeScript | React | SQL 
@@ -34,3 +34,4 @@
   <a href="mailto:paulamelo2404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+<img src="https://github.com/user-attachments/assets/ca3121f8-d104-467b-844c-e752d48e6ae3" alt="Pato programador" width="200">
