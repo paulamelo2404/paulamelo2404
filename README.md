@@ -7,8 +7,9 @@
 - 🤝 Bora colaborar em projetos legais?  
 
 [![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulamelo2404&show_icons=true&theme=radical)](https://github.com/paulamelo2404)
-[![GitHub Streak](https://streak-stats.demolab.com?user=paulamelo2404&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulamelo2404&layout=compact&theme=radical)](https://github.com/paulamelo2404)
+[![GitHub Streak](https://streak-stats.demolab.com?user=paulamelo2404&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
