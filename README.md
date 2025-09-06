@@ -8,18 +8,16 @@
 
 [![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulamelo2404&show_icons=true&theme=radical)](https://github.com/paulamelo2404) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=paulamelo2404&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulamelo2404&layout=compact&theme=radical)](https://github.com/paulamelo2404)  <img src="https://profile-counter.glitch.me/paulamelo2404/count.svg" alt="Visitors Count" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulamelo2404&layout=compact&theme=radical)](https://github.com/paulamelo2404)
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
